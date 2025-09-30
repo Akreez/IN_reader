@@ -1,3 +1,3 @@
-public class Readable {
-    
-}
+public interface Readable {
+    void readContent();
+} 
